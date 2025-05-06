@@ -10,7 +10,7 @@ This guide will help you install and run the [Soundness CLI](https://github.com/
 Run this command in your Ubuntu terminal (WSL):
 
 ```bash
-curl -sL https://raw.githubusercontent.com/<your-username>/<your-repo>/main/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/Intrudez/soundnesstestnet/main/setup.sh | bash
 ```
 
 > 🔁 Replace `<your-username>` and `<your-repo>` with your GitHub details.
